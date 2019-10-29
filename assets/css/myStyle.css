@@ -1,0 +1,20 @@
+.icon-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.icon-wrapper span {
+    font-size: 1.3em;
+}
+
+.my-icons {
+    margin-right: 30px;
+    font-size: 5em;
+    color: #fff;
+    background: #4acaa8;
+    width: 1.4em;
+    height: 1.4em;
+    text-align: center;
+    padding-top: .22em;
+    border-radius: 50%;
+}
