@@ -18,3 +18,13 @@
     padding-top: .22em;
     border-radius: 50%;
 }
+
+.resume {
+    font-weight: bold;
+    color: #4acaa8;
+}
+
+.resume:hover {
+    transition: .3s;
+    opacity: .6;
+}
