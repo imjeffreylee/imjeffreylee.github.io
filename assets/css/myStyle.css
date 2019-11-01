@@ -28,3 +28,14 @@
     transition: .3s;
     opacity: .6;
 }
+
+img[alt="jlee-logo"] {
+    height: 1.5em;
+    width: 1.5em;
+    margin: 4px 0 0 5px;
+}
+
+.name-logo {
+    display: flex;
+    align-items: center;
+}
