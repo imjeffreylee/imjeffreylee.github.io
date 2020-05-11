@@ -39,3 +39,13 @@ img[alt="jlee-logo"] {
     display: flex;
     align-items: center;
 }
+
+.company-time {
+    display: flex;
+    justify-content: space-between;
+}
+
+.company-time > p {
+    font-style: italic;
+    margin: 0 0 1em 0;
+}
